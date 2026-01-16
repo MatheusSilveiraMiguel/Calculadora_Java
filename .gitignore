@@ -1,0 +1,24 @@
+# Compilados do Java (arquivos que o PC gera sozinho)
+*.class
+*.jar
+*.war
+*.ear
+bin/
+build/
+target/
+
+# Configurações do VS Code (opcional, mas recomendado)
+.vscode/
+
+# Configurações do IntelliJ ou Eclipse
+.idea/
+*.iml
+.metadata/
+.settings/
+.project
+.classpath
+
+# Arquivos de log e temporários do sistema
+*.log
+.DS_Store
+Thumbs.db
